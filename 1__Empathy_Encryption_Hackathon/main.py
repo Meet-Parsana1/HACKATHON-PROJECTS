@@ -33,10 +33,6 @@ secure passwords. That's why I believe this is a real-world solution, not just
 a coding exercise.
 """
 
-"""
-Link of ChatGPT chat History for solving problem - https://chatgpt.com/share/68a04529-3a34-800c-a789-63ced9153ea2
-"""
-
 import re
 # import re loads Python’s regular expressions (regex) module into our script.
 # Regex is a powerful pattern matching tool that lets you search, validate, and manipulate text using rules.
@@ -397,3 +393,4 @@ if __name__ == "__main__":
         print("\n✅ Accept: This password is valid.\n")
     else:
         print("\n❌ Reject: This password is invalid.\n")
+
